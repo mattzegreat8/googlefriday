@@ -10,3 +10,16 @@
 10= whale
 11= polar bear
 12= dolphin
+13= bear
+14= eagle
+15= snake
+16= fish
+17= jackal
+18= panther
+19= penguin
+20= elephant
+21= zebra
+22= horse
+23= panda
+24= lizard
+25= rhino
