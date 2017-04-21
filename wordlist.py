@@ -1,0 +1,12 @@
+1= butterfly
+2= spider
+3= dog
+4= cat
+5= monkey
+6= tiger
+7= lion
+8= giraffe
+9= gorilla
+10= whale
+11= polar bear
+12= dolphin
