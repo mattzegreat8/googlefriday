@@ -1,1 +1,2 @@
 print("Hi, welcome to Hangman! \n In this game I will ask you to input a number 1-25. \n This number will then randomly choose a word from a list I created. \n These words are all animals. \n Animals that you find in a the zoo, your house, and outside.")
+number=int(raw_input(print("please insert a number 1 thru 25 so I can choose a word for you to guess.")))
