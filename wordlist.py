@@ -1,25 +1,28 @@
-1= butterfly
-2= spider
-3= dog
-4= cat
-5= monkey
-6= tiger
-7= lion
-8= giraffe
-9= gorilla
-10= whale
-11= polar bear
-12= dolphin
-13= bear
-14= eagle
-15= snake
-16= fish
-17= jackal
-18= panther
-19= penguin
-20= elephant
-21= zebra
-22= horse
-23= panda
-24= lizard
-25= rhino
+words = [
+'butterfly',
+'spider',
+'dog',
+'cat',
+'monkey',
+'tiger',
+'lion',
+'giraffe',
+'gorilla',
+'whale',
+'polar bear',
+'dolphin',
+'bear',
+'eagle',
+'snake',
+'fish',
+'jackal',
+'panther',
+'penguin',
+'elephant',
+'zebra',
+'horse',
+'panda',
+'lizard',
+'rhino',
+]
+
