@@ -25,10 +25,10 @@ while(count != losecount):
 		print("I am sorry but that letter is not in the word!")
 		count +=1
 	for letter in wordd:
-		if(guess in wordd):
+		if(letter in wordd):
 			print(guess)
-			print("_")
-		elif(guess not in wordd):
+
+		elif(letter not in guess):
 			print("_")
 
 	if(count == losecount):
