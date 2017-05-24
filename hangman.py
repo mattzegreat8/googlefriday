@@ -191,6 +191,6 @@ while(count!=losecount and wordd!=tempstr):
 			tempstr=tempstr+i
 		print(tempstr)
 if(count==losecount):
-	print("Aww, you suck at life turd, that's why you are dead.")
+	print("I'm sorry but you lost the game.")
 if(wordd==tempstr):
 	print("Congrats you won, the word was {}.".format(wordd))
